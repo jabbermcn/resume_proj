@@ -9,7 +9,7 @@ class ContextMixin:
         'twitter': 'https://twitter.com',
         'linkedin': 'https://www.linkedin.com/in/николай-михайловский-612744246/',
         'instagram': 'https://www.instagram.com/mikhailouski_n/',
-        'email': 'jabber_mcn@tut.by',
+        'email': 'jabbermnc@gmail.com',
         'github': 'https://github.com/jabbermcn',
         'phone': '+375 29 5692410',
     }
